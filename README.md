@@ -6,7 +6,9 @@ One version uses Python 3.5+
 
 The other version uses Python 3.5+ and the PyGame library (https://www.pygame.org/)
 We recommend you install PyGame as an administrator; if your computer only has Python 3, you will only need to do the following from the ..Python\Scripts folder if pip is already installed:
+
 > pip install pygame
+
 > pip show pygame
 
 The media used is from the following public domain sources:
