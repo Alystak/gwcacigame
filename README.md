@@ -12,6 +12,6 @@ We recommend you install PyGame as an administrator; if your computer only has P
 > pip show pygame
 
 The media used is from the following public domain sources:
-http://seniorhomecareservices.com/wp-content/uploads/2015/04/certified-home-inspection-company.jpg
-http://creativezazz.com/wp-content/uploads/2009/04/terracycleposterweb.jpg  
-http://soundbible.com/1619-music-box.html  
+1. http://seniorhomecareservices.com/wp-content/uploads/2015/04/certified-home-inspection-company.jpg
+2. http://creativezazz.com/wp-content/uploads/2009/04/terracycleposterweb.jpg  
+3. http://soundbible.com/1619-music-box.html  
