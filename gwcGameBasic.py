@@ -1,3 +1,6 @@
+#Call the top-level function:
+#> gwcGame()
+
 #top level function
 def gwcGame():
   position = "home"
@@ -37,7 +40,7 @@ def move(place1,place2):
     print("You've fallen into the ether... perhaps you should go to sleep?")
     newplace = "sleep"
   return newplace
-
-#run automatically upon load/F5
-if __name__ == "__main__":
-  gwcGame()
+  
+#uncomment the automatic main property below to run upon load/F5:
+#if __name__ == "__main__":
+#  gwcGame()
